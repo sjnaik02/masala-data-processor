@@ -1,0 +1,662 @@
+[
+  {
+    "name": "Ray Ban RB2132 New Wayfarer",
+    "price": "$144.00",
+    "link": "https://www.eyeglasses.com/sunglasses/ray-ban-rb2132-new-wayfarer",
+    "image": "https://images.eyeglasses.com/product/medium/rb2132newwayfarertop-black-on-transparent-w-green-polar-lenses--6052582.jpg",
+    "tags": {
+      "shape": "Square",
+      "material": "Acetate",
+      "frame_type": "Full Rim"
+    }
+  },
+  {
+    "name": "Ray Ban RB3362 Cockpit",
+    "price": "$163.00",
+    "link": "https://www.eyeglasses.com/sunglasses/ray-ban-rb3362-cockpit",
+    "image": "https://images.eyeglasses.com/product/medium/rb3362cockpitarista-gold-w-crystal-green-lenses--0011.jpg",
+    "tags": {
+      "shape": "Aviator",
+      "material": "Metal",
+      "frame_type": "Full Rim"
+    }
+  },
+  {
+    "name": "Ray Ban RB4101 Jackie Ohh",
+    "price": "$171.00",
+    "link": "https://www.eyeglasses.com/sunglasses/ray-ban-rb4101-jackie-ohh",
+    "image": "https://images.eyeglasses.com/product/medium/rb4101-jackie-ohh-black-with-polarized-grey-gradient.jpg",
+    "tags": {
+      "shape": "Modified Oval",
+      "material": "Acetate",
+      "frame_type": "Full Rim"
+    }
+  },
+  {
+    "name": "Ray Ban RB3386",
+    "price": "$163.00",
+    "link": "https://www.eyeglasses.com/sunglasses/ray-ban-rb3386",
+    "image": "https://images.eyeglasses.com/product/medium/rb3386-gunmetal-with-dark-green-lenses.jpg",
+    "tags": {
+      "shape": "Aviator",
+      "material": "Metal",
+      "frame_type": "Full Rim"
+    }
+  },
+  {
+    "name": "Ray Ban RB3447 Round Metal",
+    "price": "$165.00",
+    "link": "https://www.eyeglasses.com/sunglasses/ray-ban-rb3447-round-metal",
+    "image": "https://images.eyeglasses.com/product/medium/rb3447-round-metal-demiglos-brusched-bronze-with-lillac-mirror-lenses1.jpg",
+    "tags": {
+      "shape": "Round",
+      "material": "Metal",
+      "frame_type": "Full Rim"
+    }
+  },
+  {
+    "name": "Ray Ban RB3030 (Outdoorsman)",
+    "price": "$171.00",
+    "link": "https://www.eyeglasses.com/sunglasses/ray-ban-rb3030-outdoorsman",
+    "image": "https://images.eyeglasses.com/product/medium/rb3030-outdoorsman-black-with-green-lenses.jpg",
+    "tags": {
+      "shape": "Aviator",
+      "material": "Metal",
+      "frame_type": "Full Rim"
+    }
+  },
+  {
+    "name": "Ray Ban RB3119M OLYMPIAN",
+    "price": "$182.00",
+    "link": "https://www.eyeglasses.com/sunglasses/ray-ban-rb3119m-olympian",
+    "image": "https://images.eyeglasses.com/product/medium/rb3119-olympian-arista with crystal green lenses1.jpg",
+    "tags": {
+      "shape": "Modified Oval",
+      "material": "Metal",
+      "frame_type": "Full Rim"
+    }
+  },
+  {
+    "name": "Ray Ban RB3016 Clubmaster",
+    "price": "$163.00",
+    "link": "https://www.eyeglasses.com/sunglasses/ray-ban-rb3016-clubmaster",
+    "image": "https://images.eyeglasses.com/product/medium/rb3016-clubmaster-black-w-crystal-green-polarized-lenses-90158.jpg",
+    "tags": {
+      "shape": "Square",
+      "material": "Metal, Plastic",
+      "frame_type": "Full Rim"
+    }
+  },
+  {
+    "name": "Ray Ban RB3648 THE MARSHAL",
+    "price": "$182.00",
+    "link": "https://www.eyeglasses.com/sunglasses/ray-ban-rb3648-the-marshal",
+    "image": "https://images.eyeglasses.com/product/medium/rb3648-the-marshal-gold-with-green-lenses.jpg",
+    "tags": {
+      "shape": "Modified Round",
+      "material": "Metal",
+      "frame_type": "Full Rim"
+    }
+  },
+  {
+    "name": "Ray Ban RB4195M FERRARI",
+    "price": "$259.00",
+    "link": "https://www.eyeglasses.com/sunglasses/ray-ban-rb4195m-ferrari",
+    "image": "https://images.eyeglasses.com/product/medium/58D86052.JPG",
+    "tags": {
+      "shape": "Modified Oval",
+      "material": "Nylon",
+      "frame_type": "Full Rim"
+    }
+  },
+  {
+    "name": "Ray Ban RB4387",
+    "price": "$129.00",
+    "link": "https://www.eyeglasses.com/sunglasses/ray-ban-rb4387",
+    "image": "https://images.eyeglasses.com/product/medium/rb4387-transparent-with-grey-gradient1.jpg",
+    "tags": {
+      "shape": "Square",
+      "material": "Nylon",
+      "frame_type": "Full Rim"
+    }
+  },
+  {
+    "name": "Ray Ban RB4340 WAYFARER",
+    "price": "$171.00",
+    "link": "https://www.eyeglasses.com/sunglasses/ray-ban-rb4340-wayfarer",
+    "image": "https://images.eyeglasses.com/product/medium/rb4340-wayfarer-black-with-green-lenses.jpg",
+    "tags": {
+      "shape": "Square",
+      "material": "Nylon",
+      "frame_type": "Full Rim"
+    }
+  },
+  {
+    "name": "Ray Ban RB3016F CLUBMASTER",
+    "price": "$171.00",
+    "link": "https://www.eyeglasses.com/sunglasses/ray-ban-rb3016f-clubmaster",
+    "image": "https://images.eyeglasses.com/product/medium/58B6F055.JPG",
+    "tags": {
+      "shape": "Modified Round",
+      "material": "Acetate",
+      "frame_type": "Full Rim"
+    }
+  },
+  {
+    "name": "Ray Ban RB3447N",
+    "price": "$171.00",
+    "link": "https://www.eyeglasses.com/sunglasses/ray-ban-rb3447n",
+    "image": "https://images.eyeglasses.com/product/medium/rb3447n-gold-with-light-blue-gradient.jpg",
+    "tags": {
+      "shape": "",
+      "material": "Metal",
+      "frame_type": "Full Rim"
+    }
+  },
+  {
+    "name": "Ray Ban RB3547N OVAL",
+    "price": "$171.00",
+    "link": "https://www.eyeglasses.com/sunglasses/ray-ban-rb3547n-oval",
+    "image": "https://images.eyeglasses.com/product/medium/rb3547n-oval-gold-with-green-lenses.jpg",
+    "tags": {
+      "shape": "Oval",
+      "material": "Metal",
+      "frame_type": "Full Rim"
+    }
+  },
+  {
+    "name": "Ray Ban RB3548N HEXAGONAL",
+    "price": "$171.00",
+    "link": "https://www.eyeglasses.com/sunglasses/ray-ban-rb3548n-hexagonal",
+    "image": "https://images.eyeglasses.com/product/medium/rb3548n-hexagonal-gold-with-silver-flash-lenses.jpg",
+    "tags": {
+      "shape": "Geometric",
+      "material": "Metal",
+      "frame_type": "Full Rim"
+    }
+  },
+  {
+    "name": "Ray Ban RB3528",
+    "price": "$171.00",
+    "link": "https://www.eyeglasses.com/sunglasses/ray-ban-rb3528",
+    "image": "https://images.eyeglasses.com/product/medium/rb3528-black-with-polarized-silver-lenses.jpg",
+    "tags": {
+      "shape": "Aviator",
+      "material": "Metal",
+      "frame_type": "Full Rim"
+    }
+  },
+  {
+    "name": "Ray Ban RB3530",
+    "price": "$186.00",
+    "link": "https://www.eyeglasses.com/sunglasses/ray-ban-rb3530",
+    "image": "https://images.eyeglasses.com/product/medium/rb3530-gold-with-brown-gradient-lenses-1002131.jpg",
+    "tags": {
+      "shape": "Aviator",
+      "material": "Metal",
+      "frame_type": "Full Rim"
+    }
+  },
+  {
+    "name": "Ray Ban RB4246",
+    "price": "$163.00",
+    "link": "https://www.eyeglasses.com/sunglasses/ray-ban-rb4246",
+    "image": "https://images.eyeglasses.com/product/medium/rb4246-red-havana-with-polarized-green-lenses.jpg",
+    "tags": {
+      "shape": "",
+      "material": "Acetate",
+      "frame_type": "Full Rim"
+    }
+  },
+  {
+    "name": "Ray Ban RB2185 WAYFARER II",
+    "price": "$171.00",
+    "link": "https://www.eyeglasses.com/sunglasses/ray-ban-rb2185-wayfarer-ii",
+    "image": "https://images.eyeglasses.com/product/medium/rb2185-wayfarer-ii-grey-havana-with-photochromatic-azureblue-gradient.jpg",
+    "tags": {
+      "shape": "Modified Round",
+      "material": "Acetate",
+      "frame_type": "Full Rim"
+    }
+  },
+  {
+    "name": "Ray Ban RB2186 STATE STREET",
+    "price": "$182.00",
+    "link": "https://www.eyeglasses.com/sunglasses/ray-ban-rb2186-state-street",
+    "image": "https://images.eyeglasses.com/product/medium/rb2186-state-street-striped-green-with-grey-lenses1.jpg",
+    "tags": {
+      "shape": "Cat Eye",
+      "material": "Acetate",
+      "frame_type": "Full Rim"
+    }
+  },
+  {
+    "name": "Ray Ban RB3857 FRANK",
+    "price": "$163.00",
+    "link": "https://www.eyeglasses.com/sunglasses/ray-ban-rb3857-frank",
+    "image": "https://images.eyeglasses.com/product/medium/rb3857-frank-black-with-green-lenses.jpg",
+    "tags": {
+      "shape": "Modified Round",
+      "material": "Metal",
+      "frame_type": "Full Rim"
+    }
+  },
+  {
+    "name": "Ray Ban RB4323",
+    "price": "$160.00",
+    "link": "https://www.eyeglasses.com/sunglasses/ray-ban-rb4323",
+    "image": "https://images.eyeglasses.com/product/medium/rb4323-transparent-grey-with-grey-gradient.jpg",
+    "tags": {
+      "shape": "Square",
+      "material": "Nylon",
+      "frame_type": "Full Rim"
+    }
+  },
+  {
+    "name": "Ray Ban RB4344",
+    "price": "$157.00",
+    "link": "https://www.eyeglasses.com/sunglasses/ray-ban-rb4344",
+    "image": "https://images.eyeglasses.com/product/medium/5B7F0056.JPG",
+    "tags": {
+      "shape": "Rectangle",
+      "material": "Nylon",
+      "frame_type": "Full Rim"
+    }
+  },
+  {
+    "name": "Ray Ban RB2197 ELLIOT",
+    "price": "$171.00",
+    "link": "https://www.eyeglasses.com/sunglasses/ray-ban-rb2197-elliot",
+    "image": "https://images.eyeglasses.com/product/medium/rb2197-elliot-havana-brown-grey-with-polarized-brown-lenses.jpg",
+    "tags": {
+      "shape": "Modified Round",
+      "material": "Acetate",
+      "frame_type": "Full Rim"
+    }
+  },
+  {
+    "name": "Ray Ban RB4376",
+    "price": "$143.00",
+    "link": "https://www.eyeglasses.com/sunglasses/ray-ban-rb4376",
+    "image": "https://images.eyeglasses.com/product/medium/rb4376-transparent-grey-with-polarized-dark-blue-lenses.jpg",
+    "tags": {
+      "shape": "Aviator",
+      "material": "Nylon",
+      "frame_type": "Full Rim"
+    }
+  },
+  {
+    "name": "Ray Ban RB4420",
+    "price": "$143.00",
+    "link": "https://www.eyeglasses.com/sunglasses/ray-ban-rb4420",
+    "image": "https://images.eyeglasses.com/product/medium/rb4420-black-with-dark-grey-lenses.jpg",
+    "tags": {
+      "shape": "Square",
+      "material": "Nylon",
+      "frame_type": "Full Rim"
+    }
+  },
+  {
+    "name": "Ray Ban RB2140 Wayfarer",
+    "price": "$163.00",
+    "link": "https://www.eyeglasses.com/sunglasses/ray-ban-rb2140-wayfarer",
+    "image": "https://images.eyeglasses.com/product/medium/rb2140-wayfarer-black-w-crystal-green-polarized-lenses--90158.jpg",
+    "tags": {
+      "shape": "Square",
+      "material": "Acetate",
+      "frame_type": "Full Rim"
+    }
+  },
+  {
+    "name": "Ray Ban RB4175 Clubmaster Oversized",
+    "price": "$171.00",
+    "link": "https://www.eyeglasses.com/sunglasses/ray-ban-rb4175-clubmaster-oversized",
+    "image": "https://images.eyeglasses.com/product/medium/rb4175-matte-havana-w-grey-mirror-green-lenses.jpg",
+    "tags": {
+      "shape": "Square",
+      "material": "Metal, Plastic",
+      "frame_type": "Full Rim"
+    }
+  },
+  {
+    "name": "Ray Ban RB4165 Justin",
+    "price": "$143.00",
+    "link": "https://www.eyeglasses.com/sunglasses/ray-ban-rb4165-justin",
+    "image": "https://images.eyeglasses.com/product/medium/rb4165-justin-black-with-polarized-dark-blue-lenses.jpg",
+    "tags": {
+      "shape": "Rectangle",
+      "material": "Acetate",
+      "frame_type": "Full Rim"
+    }
+  },
+  {
+    "name": "Ray Ban RB4171 Erika",
+    "price": "$140.00",
+    "link": "https://www.eyeglasses.com/sunglasses/ray-ban-rb4171-erika",
+    "image": "https://images.eyeglasses.com/product/medium/rb4171-erika-rubber havana with brown gradient lenses.jpg",
+    "tags": {
+      "shape": "Modified Round",
+      "material": "Acetate",
+      "frame_type": "Full Rim"
+    }
+  },
+  {
+    "name": "Ray Ban RB8313",
+    "price": "$225.00",
+    "link": "https://www.eyeglasses.com/sunglasses/ray-ban-rb8313",
+    "image": "https://images.eyeglasses.com/product/medium/rb8313shiny-gunmetal-w-polar-blue-mirror-silver-lenses--004k6.jpg",
+    "tags": {
+      "shape": "Aviator",
+      "material": "Metal",
+      "frame_type": "Full Rim"
+    }
+  },
+  {
+    "name": "Ray Ban RB4292N BLAZE DBL Bridge Non Rx",
+    "price": "$208.00",
+    "link": "https://www.eyeglasses.com/sunglasses/ray-ban-rb4292n-blaze-dbl-bridge-non-rx",
+    "image": "https://images.eyeglasses.com/product/medium/rb4292n-blaze-doublebridge-white--dark-green-mirror-silver.jpg",
+    "tags": {
+      "shape": "Modified Round",
+      "material": "Acetate",
+      "frame_type": "Full Rim"
+    }
+  },
+  {
+    "name": "Ray Ban RB3025 Aviator Large Metal",
+    "price": "$154.00",
+    "link": "https://www.eyeglasses.com/sunglasses/ray-ban-rb3025-aviator-large-metal",
+    "image": "https://images.eyeglasses.com/product/medium/rb3025-aviator-large-metal-matte-aristapolarized-blue-mirror.jpg",
+    "tags": {
+      "shape": "Aviator",
+      "material": "Metal",
+      "frame_type": "Full Rim"
+    }
+  },
+  {
+    "name": "Ray Ban RB3625 New Aviator",
+    "price": "$160.00",
+    "link": "https://www.eyeglasses.com/sunglasses/ray-ban-rb3625-new-aviator",
+    "image": "https://images.eyeglasses.com/product/medium/rb3625-new-aviator-gold-with-light-brown-lenses.jpg",
+    "tags": {
+      "shape": "Aviator",
+      "material": "Metal",
+      "frame_type": "Full Rim"
+    }
+  },
+  {
+    "name": "Ray Ban RB3449",
+    "price": "$186.00",
+    "link": "https://www.eyeglasses.com/sunglasses/ray-ban-rb3449",
+    "image": "https://images.eyeglasses.com/product/medium/rb3449-silver-with-silver-lenses.jpg",
+    "tags": {
+      "shape": "Aviator",
+      "material": "Metal",
+      "frame_type": "Full Rim"
+    }
+  },
+  {
+    "name": "Ray Ban RB3471",
+    "price": "$143.00",
+    "link": "https://www.eyeglasses.com/sunglasses/ray-ban-rb3471",
+    "image": "https://images.eyeglasses.com/product/medium/rb3471-gold-with-browndark-brown-gradient.jpg",
+    "tags": {
+      "shape": "Shield",
+      "material": "Acetate",
+      "frame_type": "Shield"
+    }
+  },
+  {
+    "name": "Ray Ban RB2016 Daddy-O",
+    "price": "$129.00",
+    "link": "https://www.eyeglasses.com/sunglasses/ray-ban-rb2016-daddyo",
+    "image": "https://images.eyeglasses.com/product/medium/rb2016-daddyo-black--g15--green.jpg",
+    "tags": {
+      "shape": "",
+      "material": "Acetate",
+      "frame_type": "Full Rim"
+    }
+  },
+  {
+    "name": "Ray Ban RB3044 AVIATOR SMALL METAL",
+    "price": "$171.00",
+    "link": "https://www.eyeglasses.com/sunglasses/ray-ban-rb3044-aviator-small-metal",
+    "image": "https://images.eyeglasses.com/product/medium/rb3044-aviator-small-metal-gold-with-crystal-green-lenses.jpg",
+    "tags": {
+      "shape": "Cat Eye",
+      "material": "Acetate",
+      "frame_type": "Full Rim"
+    }
+  },
+  {
+    "name": "Ray Ban RB4195",
+    "price": "$204.00",
+    "link": "https://www.eyeglasses.com/sunglasses/ray-ban-rb4195",
+    "image": "https://images.eyeglasses.com/product/medium/rb4195-black-with-green-classic-lenses.jpg",
+    "tags": {
+      "shape": "",
+      "material": "Nylon",
+      "frame_type": "Full Rim"
+    }
+  },
+  {
+    "name": "Ray Ban RB2132F",
+    "price": "$160.00",
+    "link": "https://www.eyeglasses.com/sunglasses/ray-ban-rb2132f",
+    "image": "https://images.eyeglasses.com/product/medium/rb2132f-black-with-light-green-lenses.jpg",
+    "tags": {
+      "shape": "Square",
+      "material": "Acetate",
+      "frame_type": "Full Rim"
+    }
+  },
+  {
+    "name": "Ray Ban RB4101F",
+    "price": "$168.00",
+    "link": "https://www.eyeglasses.com/sunglasses/ray-ban-rb4101f",
+    "image": "https://images.eyeglasses.com/product/medium/rb4101f-black-with-green-lenses.jpg",
+    "tags": {
+      "shape": "Modified Oval",
+      "material": "Nylon",
+      "frame_type": "Full Rim"
+    }
+  },
+  {
+    "name": "Ray Ban RB4203",
+    "price": "$124.00",
+    "link": "https://www.eyeglasses.com/sunglasses/ray-ban-rb4203",
+    "image": "https://images.eyeglasses.com/product/medium/4F4E8051.JPG",
+    "tags": {
+      "shape": "Modified Round",
+      "material": "Acetate",
+      "frame_type": "Full Rim"
+    }
+  },
+  {
+    "name": "Ray Ban RB3522",
+    "price": "$171.00",
+    "link": "https://www.eyeglasses.com/sunglasses/ray-ban-rb3522",
+    "image": "https://images.eyeglasses.com/product/medium/rb3522-gold-with-browndark-brown-gradient.jpg",
+    "tags": {
+      "shape": "Navigator",
+      "material": "Metal",
+      "frame_type": "Full Rim"
+    }
+  },
+  {
+    "name": "Ray Ban RB2180",
+    "price": "$143.00",
+    "link": "https://www.eyeglasses.com/sunglasses/ray-ban-rb2180",
+    "image": "https://images.eyeglasses.com/product/medium/rb2180black.jpg",
+    "tags": {
+      "shape": "Modified Round",
+      "material": "Acetate",
+      "frame_type": "Full Rim"
+    }
+  },
+  {
+    "name": "Ray Ban RB2447",
+    "price": "$182.00",
+    "link": "https://www.eyeglasses.com/sunglasses/ray-ban-rb2447",
+    "image": "https://images.eyeglasses.com/product/medium/rb2447-brown-havana-with-brown-lenses.jpg",
+    "tags": {
+      "shape": "Modified Round",
+      "material": "Acetate",
+      "frame_type": "Full Rim"
+    }
+  },
+  {
+    "name": "Ray Ban RB4221",
+    "price": "$158.00",
+    "link": "https://www.eyeglasses.com/sunglasses/ray-ban-rb4221",
+    "image": "https://images.eyeglasses.com/product/medium/rb4221-rubber-black-with-light-grey-gradient-dark-grey-lenses.jpg",
+    "tags": {
+      "shape": "Square",
+      "material": "Acetate",
+      "frame_type": "Full Rim"
+    }
+  },
+  {
+    "name": "Ray Ban RB4105 Folding Wayfarer",
+    "price": "$171.00",
+    "link": "https://www.eyeglasses.com/sunglasses/ray-ban-rb4105-folding-wayfarer",
+    "image": "https://images.eyeglasses.com/product/medium/rb4105-folding-wayfarer-black-with-green-lenses.jpg",
+    "tags": {
+      "shape": "Square",
+      "material": "Acetate",
+      "frame_type": "Full Rim"
+    }
+  },
+  {
+    "name": "Ray Ban RB4098 JACKIE OHH II",
+    "price": "$171.00",
+    "link": "https://www.eyeglasses.com/sunglasses/ray-ban-rb4098-jackie-ohh-ii",
+    "image": "https://images.eyeglasses.com/product/medium/rb4098-jackie-ohh-ii-transparent-blue-with-polarized-dark-grey-lenses.jpg",
+    "tags": {
+      "shape": "Modified Round",
+      "material": "Acetate",
+      "frame_type": "Full Rim"
+    }
+  },
+  {
+    "name": "Ray Ban RB4126",
+    "price": "$186.00",
+    "link": "https://www.eyeglasses.com/sunglasses/ray-ban-rb4126",
+    "image": "https://images.eyeglasses.com/product/medium/rb4126-light-havana-with-light-brown-gradient.jpg",
+    "tags": {
+      "shape": "Round",
+      "material": "Acetate",
+      "frame_type": "Full Rim"
+    }
+  },
+  {
+    "name": "Ray Ban RB2027 Predator 2",
+    "price": "$151.00",
+    "link": "https://www.eyeglasses.com/sunglasses/ray-ban-rb2027-predator-2",
+    "image": "https://images.eyeglasses.com/product/medium/rb2027-predator-2-blackmatte-black-with-g15-green-lenses.jpg",
+    "tags": {
+      "shape": "Oval",
+      "material": "Acetate",
+      "frame_type": "Full Rim"
+    }
+  },
+  {
+    "name": "Ray Ban RB4147",
+    "price": "$160.00",
+    "link": "https://www.eyeglasses.com/sunglasses/ray-ban-rb4147",
+    "image": "https://images.eyeglasses.com/product/medium/rb4147-dark-blue-with-dark-blue-lenses.jpg",
+    "tags": {
+      "shape": "Modified Oval",
+      "material": "Nylon",
+      "frame_type": "Full Rim"
+    }
+  },
+  {
+    "name": "Ray Ban RB3029 (Outdoorsman II)",
+    "price": "$171.00",
+    "link": "https://www.eyeglasses.com/sunglasses/ray-ban-rb3029-outdoorsman-ii",
+    "image": "https://images.eyeglasses.com/product/medium/rb3029-outdoorsman-ii-gold-with-green-lenses-pink.jpg",
+    "tags": {
+      "shape": "Aviator",
+      "material": "Metal",
+      "frame_type": "Full Rim"
+    }
+  },
+  {
+    "name": "Ray Ban RB3136 (Caravan)",
+    "price": "$171.00",
+    "link": "https://www.eyeglasses.com/sunglasses/ray-ban-rb3136-caravan",
+    "image": "https://images.eyeglasses.com/product/medium/rb3136-caravan-gold-with-grey-gradient.jpg",
+    "tags": {
+      "shape": "Navigator",
+      "material": "Metal",
+      "frame_type": "Full Rim"
+    }
+  },
+  {
+    "name": "Ray Ban RB3569",
+    "price": "$197.00",
+    "link": "https://www.eyeglasses.com/sunglasses/ray-ban-rb3569",
+    "image": "https://images.eyeglasses.com/product/medium/40AF4059.JPG",
+    "tags": {
+      "shape": "Modified Oval",
+      "material": "Metal",
+      "frame_type": "Full Rim"
+    }
+  },
+  {
+    "name": "Ray Ban RB3584N BLAZE AVIATOR",
+    "price": "$193.00",
+    "link": "https://www.eyeglasses.com/sunglasses/ray-ban-rb3584n-blaze-aviator",
+    "image": "https://images.eyeglasses.com/product/medium/58C6A061.JPG",
+    "tags": {
+      "shape": "Modified Oval",
+      "material": "Metal",
+      "frame_type": "3-Piece Screw"
+    }
+  },
+  {
+    "name": "Ray Ban RB3588",
+    "price": "$160.00",
+    "link": "https://www.eyeglasses.com/sunglasses/ray-ban-rb3588",
+    "image": "https://images.eyeglasses.com/product/medium/rb3588-black-with-dark-blue-lenses.jpg",
+    "tags": {
+      "shape": "Square",
+      "material": "Metal",
+      "frame_type": "Full Rim"
+    }
+  },
+  {
+    "name": "Ray Ban RB3589",
+    "price": "$175.00",
+    "link": "https://www.eyeglasses.com/sunglasses/ray-ban-rb3589",
+    "image": "https://images.eyeglasses.com/product/medium/58C70055.JPG",
+    "tags": {
+      "shape": "Aviator",
+      "material": "Metal",
+      "frame_type": "Full Rim"
+    }
+  },
+  {
+    "name": "Ray Ban RB4292N BLAZE DOUBLEBRIDGE",
+    "price": "$154.00",
+    "link": "https://www.eyeglasses.com/sunglasses/ray-ban-rb4292n-blaze-doublebridge",
+    "image": "https://images.eyeglasses.com/product/medium/58DD7061.JPG",
+    "tags": {
+      "shape": "Round",
+      "material": "Nylon",
+      "frame_type": "3-Piece Screw"
+    }
+  },
+  {
+    "name": "Ray Ban RB8319CH",
+    "price": "$335.00",
+    "link": "https://www.eyeglasses.com/sunglasses/ray-ban-rb8319ch",
+    "image": "https://images.eyeglasses.com/product/medium/rb8319ch-black-with-polarized-silver-lenses.jpg",
+    "tags": {
+      "shape": "Square",
+      "material": "Metal",
+      "frame_type": "Full Rim"
+    }
+  }
+]
